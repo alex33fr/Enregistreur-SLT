@@ -1,6 +1,6 @@
 /* =========================================================
    Projet  : Enregistreur SLT (ESP32-S3 + DS1302 + Wi-Fi + LittleFS)
-   Auteur  : [A.PRIVALOV]
+   Auteur  : [P.Aliexeï]
    Date    : [24/09/2025]
    Version : [1.4]
 
@@ -38,7 +38,7 @@ const unsigned long WIFI_DURATION_MINUTES = 60; // durée WiFi actif après boot
 // =========================================================
 // === WIFI ================================================
 const char* ssid = "Enregistreur_SLT";
-const char* password = "";
+const char* password = "MDP";
 
 // =========================================================
 // === OBJETS ==============================================
