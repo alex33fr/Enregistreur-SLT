@@ -38,7 +38,7 @@ const unsigned long WIFI_DURATION_MINUTES = 60; // durée WiFi actif après boot
 // =========================================================
 // === WIFI ================================================
 const char* ssid = "Enregistreur_SLT";
-const char* password = "Mainta2020*";
+const char* password = "";
 
 // =========================================================
 // === OBJETS ==============================================
