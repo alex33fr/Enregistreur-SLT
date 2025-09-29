@@ -75,7 +75,7 @@ Dans le menu **Outils** :
 Après démarrage, l’ESP32 crée un **point d’accès Wi-Fi** :
 
 - **SSID** : `Enregistreur_SLT`  
-- **Mot de passe** : ``  
+- **Mot de passe** : `A définir`  
 - **Adresse IP par défaut** : `192.168.4.1`  
 
 ### Interface web
